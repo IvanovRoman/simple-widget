@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "AMD",
+    "sourceMap": true,
+    "removeComments": false,
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "importHelpers": true,
+    "noEmitHelpers": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "useUnknownInCatchVariables": false,
+    "jsx": "react"
+  },
+  "include": [
+    "src"
+  ]
+}
